@@ -32,6 +32,7 @@ require $dir. '/admin/admin-ui.php';
 require $dir. '/admin/alerts.php';
 require $dir. '/admin/meta-boxes.php';
 require $dir. '/admin/taxonomies.php';
+//require $dir. '/admin/widgets.php';
 
 require $dir. '/public/browse.php';
 require $dir. '/public/departments.php';
